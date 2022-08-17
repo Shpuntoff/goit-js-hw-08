@@ -25,5 +25,5 @@ galleryRef.innerHTML = galleryItems
 const lightbox = new SimpleLightbox('.gallery a', {
   captionsPosition: 'bottom',
   captionsData: 'alt',
-  captionsDelay: 250,
+  captionDelay: 250,
 });
